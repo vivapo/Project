@@ -1,3 +1,5 @@
+package Lecture_from_10_03;
+
 public class TestArray{
 	public static void main(String[] args){
 		System.out.println(args.length);

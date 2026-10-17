@@ -1,3 +1,5 @@
+package Lecture_from_10_03;
+
 public class TestArraykkk{
     public static void main(String[] args){
 

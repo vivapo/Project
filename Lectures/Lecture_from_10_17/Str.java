@@ -1,4 +1,4 @@
-package Lecture_from_17_10;
+package Lecture_from_10_17;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,3 +1,6 @@
+package for_10_10;
+
+
 import java.util.Scanner;
 import java.util.Random;
 public class CrossZero1 {

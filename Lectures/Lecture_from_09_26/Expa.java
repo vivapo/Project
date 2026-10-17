@@ -1,4 +1,4 @@
-package Lecture_from_26_09;
+package Lecture_from_09_26;
 
 public class Expa{
 	public static void main(String[] args){

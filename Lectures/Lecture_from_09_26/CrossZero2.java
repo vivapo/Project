@@ -1,3 +1,5 @@
+package Lecture_from_09_26;
+
 import java.util.Scanner;
 
 public class CrossZero2 {

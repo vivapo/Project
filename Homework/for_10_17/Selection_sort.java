@@ -1,4 +1,4 @@
-package for_17_10;
+package for_10_17;
 
 public class Selection_sort {
 

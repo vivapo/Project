@@ -1,3 +1,5 @@
+package for_10_01;
+
 import java.util.Scanner;
 import java.util.Random;
 

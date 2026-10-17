@@ -1,3 +1,5 @@
+package Lecture_from_10_10;
+
 public class expa {
     public static void main(String[] args) {
         System.out.println(fun( new int[] {1, 2, 8, 4, 5},8));

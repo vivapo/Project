@@ -1,3 +1,5 @@
+package for_09_26;
+
 public class prog3 {
 	public static void main(String[] args){
 		char c1 = 'И', c2 = 'Т', c3 = 'И', c4 = 'С'; // слово

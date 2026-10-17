@@ -1,3 +1,5 @@
+package Lecture_from_10_10;
+
 public class Test1 {
     public static void main(String[] args) {
         int c = summ(1,5);

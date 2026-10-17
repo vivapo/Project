@@ -1,3 +1,5 @@
+package Lecture_from_10_03;
+
 public class Test4 {
     public static void main(String[] args){
         String R = "\u2588";

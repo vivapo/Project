@@ -1,3 +1,5 @@
+package for_09_26;
+
 public class prog2 {
 	public static void main(String[] args){
 		int x = 1;
