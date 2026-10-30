@@ -6,9 +6,9 @@ public class Lesson2{
 	public static void main(String[] args){
 		int secret = 10;
 		int maxcount = 5;
-		Scanner in = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in);
 		System.out.println("Введи целое число");
-		int num = in.nextInt();
+		int num = scanner.nextInt();
 		while(true) {
 			--maxcount;
 			if(maxcount==0){
@@ -21,11 +21,11 @@ public class Lesson2{
 			}
 			if(num>secret){
 				System.out.println("Секретное число меньше. Введите новое число");
-				num = in.nextInt();
+				num = scanner.nextInt();
 			}
 			if(num<secret){
 				System.out.println("Секретное число больше. Введите новое число");
-				num = in.nextInt();
+				num = scanner.nextInt();
 			}
 
 

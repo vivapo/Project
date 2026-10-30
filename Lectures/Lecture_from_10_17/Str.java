@@ -5,13 +5,16 @@ import java.util.Scanner;
 
 public class Str {
     public static void main(String[] args) throws IOException {
-        Scanner scanner = new Scanner(new File("labirint.java"));
+        Scanner scanner = new Scanner(new File("Lectures/Lecture_from_10_17/testtext.md"));
 
         while (scanner.hasNextLine()){
             String line = scanner.nextLine();
             System.out.println(line);
         }
     }
+
+
+
 
     static String clearWord(String word){
         char c = word.charAt(word.length() - 1);
